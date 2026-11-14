@@ -1,0 +1,8 @@
+{
+  "name": "EduPulse Attendance ERP & Excel VBA Suite",
+  "description": "Student & Staff Attendance Management System with permanent database storage, real-time analytics dashboard, RBAC login, reporting, and complete Excel VBA workbook source builder.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
